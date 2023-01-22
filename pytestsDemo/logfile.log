@@ -1,0 +1,19 @@
+
+2022-10-03 16:16:34,509 :INFO : test_editProfile :Rahul
+2022-10-03 16:16:34,509 :INFO : test_editProfile :rahulshettyacademy.com
+2022-10-03 16:19:04,884 :INFO : test_editProfile :Rahul
+2022-10-03 16:19:04,885 :INFO : test_editProfile :rahulshettyacademy.com
+2022-10-03 16:19:04,889 : DEBUG : pytestsDemo.test_logging : A debug statement is executed
+2022-10-03 16:19:04,889 : INFO : pytestsDemo.test_logging : Information statement
+2022-10-03 16:19:04,889 : WARNING : pytestsDemo.test_logging : Something is in warning mode
+2022-10-03 16:19:04,889 : ERROR : pytestsDemo.test_logging : A major error has happened
+2022-10-03 16:19:04,889 : CRITICAL : pytestsDemo.test_logging : Critical issue
+2022-10-03 16:22:21,381 :INFO : test_editProfile :Rahul
+2022-10-03 16:22:21,381 :INFO : test_editProfile :rahulshettyacademy.com
+2022-10-03 16:22:52,209 :INFO : test_editProfile :Rahul
+2022-10-03 16:22:52,209 :INFO : test_editProfile :rahulshettyacademy.com
+2022-10-03 16:22:52,214 : DEBUG : pytestsDemo.test_logging : A debug statement is executed
+2022-10-03 16:22:52,214 : INFO : pytestsDemo.test_logging : Information statement
+2022-10-03 16:22:52,214 : WARNING : pytestsDemo.test_logging : Something is in warning mode
+2022-10-03 16:22:52,214 : ERROR : pytestsDemo.test_logging : A major error has happened
+2022-10-03 16:22:52,214 : CRITICAL : pytestsDemo.test_logging : Critical issue
